@@ -1,5 +1,5 @@
 *
-*.html
+!*.html
 !data
 !data/*
 !dlnd_tv_script_generation.ipynb
